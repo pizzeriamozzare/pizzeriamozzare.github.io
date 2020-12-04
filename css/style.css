@@ -3000,8 +3000,8 @@ button.btn.btn-search.active {
 .f-contact ul li {
   display: inline-block;
   float: left;
-  max-width: 250px;
-  padding: 0 10px;
+  max-width: 600px;
+  padding: 0 50px;
 }
 .f-contact ul li a {
   color: #aab4b7;
