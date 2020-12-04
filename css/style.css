@@ -2218,7 +2218,7 @@ a.btn1.stl1.animated {
 .footer-content ul.card-block a {
   margin-right: 6px;
 }
-.footer-content ul li a {
+.footer-content ul li span {
   display: block;
   font-size: 16px;
   color: #aab4b7;
@@ -2226,14 +2226,6 @@ a.btn1.stl1.animated {
   padding: 0 0 10px 0;
 }
 
-.footer-content ul li a:hover  {
-  color: #fff;
-  -webkit-transform: translateX(2px);
-  -moz-transform: translateX(2px);
-  -ms-transform: translateX(2px);
-  -o-transform: translateX(2px);
-  transform: translateX(2px);
-}
 
 .footer-content {
   width: 100%;
@@ -2443,7 +2435,7 @@ a.btn1.stl1.animated {
 }
 .home2 .location-block {
   color: #fff;
-  padding: 20px 0;
+  padding: 50px 0;
   display: inline-block;
   float: left;
 }
@@ -2463,7 +2455,7 @@ a.btn1.stl1.animated {
   padding: 29px 30px;
 }
 .home2 .top-nav {
-    padding: 44px 0 15px 0;
+    background: black;
 }
 .home2 .location-block {
   min-width: 320px;
@@ -2480,21 +2472,12 @@ a.btn1.stl1.animated {
   font-size:  20px;
   font-family: 'Roboto', sans-serif;
 }
-.home2 .location-block p:before {
-    position: absolute;
-    content: "\f10c";
-    font-family: Flaticon;
-    font-size: 15px;
-    left: 58px;
-    font-weight: bold;
-    top: 10px;
-}
 .home2 .location-block p span {
   font-weight: 500;
 }
 .home2 .nav-right-block {
   float: right;
-  padding: 29px 0;
+  padding: 60px 0;
   min-width: 320px;
 }
 .home2 .nav-right-block ul {

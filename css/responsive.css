@@ -132,11 +132,9 @@
 		top: 6px;
 	}
 	.home2 .nav-right-block {
-		padding: 21px 0;
+		padding: 40px 0;
 	}
-	.home2 .top-nav {
-		padding: 25px 0 10px 0;
-	}
+	
 	.home2 .nav-right-block {
 		margin-right: 0px;
 	}
@@ -935,7 +933,8 @@
 		width: 140px;
 	}
 	.home2 .logo {
-	    width: 140px;
+	    width: 300px;
+	    float: none !important;
 	} 
 	.home2 .logo img {
 	    max-width: 100%;
@@ -984,8 +983,12 @@
 		left: 10px;
 	}
 	.home2 .nav-right-block {
-		padding: 17px 21px;
+		padding: 35px 21px;
 	}
+	.home2 .location-block {
+		padding: 35px 21px;
+	}
+
 	.vid-block .ovl .video i:before {
 		font-size: 35px;
 	}
@@ -1139,7 +1142,7 @@
 	}
 	.home2 .nav-right-block {
 		margin: 0;
-		padding: 18px 0;
+		padding: 31px 0;
 		min-width: auto;
 	}
 	.slider2 .slide2 .img-block .img-holder img {
@@ -1427,7 +1430,7 @@
 		width: 40px;
 	}
 	.home2 .nav-right-block {
-		margin-right: 28px;
+		margin: auto;
 	}
 	.great-thankful .img-holder {
 		padding: 16px 0;
